@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.6"?>
+
+<target name="bw-runtime">
+<locations>
+
+<location path="/C:/tibcobw273/bwce/palettes/as/8.0//hotfix/runtime/plugins" type="Directory"/>
+<location path="/C:/tibcobw273/bwce/palettes/as/8.0//runtime/plugins" type="Directory"/>
+
+
+<location path="C:/tibcobw273/bwce/2.7/system/hotfix/lib/common" type="Directory"/>
+<location path="C:/tibcobw273/bwce/2.7/system/lib/common" type="Directory"/>
+
+<location path="C:/tibcobw273/bwce/2.7/system/hotfix/palettes" type="Directory"/>
+<location path="C:/tibcobw273/bwce/2.7/system/palettes" type="Directory"/>
+
+<location path="C:/tibcobw273/bwce/2.7/system/hotfix/shared" type="Directory"/>
+<location path="C:/tibcobw273/bwce/2.7/system/shared" type="Profile"/>
+</locations>
+</target>
